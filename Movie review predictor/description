@@ -1,0 +1,3 @@
+Most of the people rate movies on the ImDb or other movie databases. While they also write a user review for the movie. On comparison, there is a lot of variability in what the
+user says about the movie and the rating given by the user. In this project, my objective was to use NLP to read the user review and predict the true rating that the user should 
+have given to the movie using sentiment analysis.
